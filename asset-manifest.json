@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/watspoppin/static/css/main.73efbf52.chunk.css",
+    "main.js": "/watspoppin/static/js/main.7b14fa00.chunk.js",
+    "main.js.map": "/watspoppin/static/js/main.7b14fa00.chunk.js.map",
+    "runtime-main.js": "/watspoppin/static/js/runtime-main.4823de51.js",
+    "runtime-main.js.map": "/watspoppin/static/js/runtime-main.4823de51.js.map",
+    "static/js/2.acdd567b.chunk.js": "/watspoppin/static/js/2.acdd567b.chunk.js",
+    "static/js/2.acdd567b.chunk.js.map": "/watspoppin/static/js/2.acdd567b.chunk.js.map",
+    "static/js/3.39b85baa.chunk.js": "/watspoppin/static/js/3.39b85baa.chunk.js",
+    "static/js/3.39b85baa.chunk.js.map": "/watspoppin/static/js/3.39b85baa.chunk.js.map",
+    "index.html": "/watspoppin/index.html",
+    "static/css/main.73efbf52.chunk.css.map": "/watspoppin/static/css/main.73efbf52.chunk.css.map",
+    "static/js/2.acdd567b.chunk.js.LICENSE.txt": "/watspoppin/static/js/2.acdd567b.chunk.js.LICENSE.txt",
+    "static/media/logo.2d27ead7.svg": "/watspoppin/static/media/logo.2d27ead7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4823de51.js",
+    "static/js/2.acdd567b.chunk.js",
+    "static/css/main.73efbf52.chunk.css",
+    "static/js/main.7b14fa00.chunk.js"
+  ]
+}

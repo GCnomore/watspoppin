@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/watspoppin/static/css/main.fb451fce.chunk.css",
-    "main.js": "/watspoppin/static/js/main.47ba4735.chunk.js",
-    "main.js.map": "/watspoppin/static/js/main.47ba4735.chunk.js.map",
+    "main.js": "/watspoppin/static/js/main.eefb9630.chunk.js",
+    "main.js.map": "/watspoppin/static/js/main.eefb9630.chunk.js.map",
     "runtime-main.js": "/watspoppin/static/js/runtime-main.65b489a8.js",
     "runtime-main.js.map": "/watspoppin/static/js/runtime-main.65b489a8.js.map",
     "static/js/2.3edb4c08.chunk.js": "/watspoppin/static/js/2.3edb4c08.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.65b489a8.js",
     "static/js/2.3edb4c08.chunk.js",
     "static/css/main.fb451fce.chunk.css",
-    "static/js/main.47ba4735.chunk.js"
+    "static/js/main.eefb9630.chunk.js"
   ]
 }

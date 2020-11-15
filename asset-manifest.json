@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/watspoppin/static/css/main.55a2ae0a.chunk.css",
-    "main.js": "/watspoppin/static/js/main.e371b2a4.chunk.js",
-    "main.js.map": "/watspoppin/static/js/main.e371b2a4.chunk.js.map",
+    "main.js": "/watspoppin/static/js/main.1abf40fb.chunk.js",
+    "main.js.map": "/watspoppin/static/js/main.1abf40fb.chunk.js.map",
     "runtime-main.js": "/watspoppin/static/js/runtime-main.d64b8623.js",
     "runtime-main.js.map": "/watspoppin/static/js/runtime-main.d64b8623.js.map",
-    "static/js/2.7a257651.chunk.js": "/watspoppin/static/js/2.7a257651.chunk.js",
-    "static/js/2.7a257651.chunk.js.map": "/watspoppin/static/js/2.7a257651.chunk.js.map",
+    "static/js/2.fd61e068.chunk.js": "/watspoppin/static/js/2.fd61e068.chunk.js",
+    "static/js/2.fd61e068.chunk.js.map": "/watspoppin/static/js/2.fd61e068.chunk.js.map",
     "index.html": "/watspoppin/index.html",
     "service-worker.js": "/watspoppin/service-worker.js",
     "service-worker.js.map": "/watspoppin/service-worker.js.map",
     "static/css/main.55a2ae0a.chunk.css.map": "/watspoppin/static/css/main.55a2ae0a.chunk.css.map",
-    "static/js/2.7a257651.chunk.js.LICENSE.txt": "/watspoppin/static/js/2.7a257651.chunk.js.LICENSE.txt"
+    "static/js/2.fd61e068.chunk.js.LICENSE.txt": "/watspoppin/static/js/2.fd61e068.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d64b8623.js",
-    "static/js/2.7a257651.chunk.js",
+    "static/js/2.fd61e068.chunk.js",
     "static/css/main.55a2ae0a.chunk.css",
-    "static/js/main.e371b2a4.chunk.js"
+    "static/js/main.1abf40fb.chunk.js"
   ]
 }

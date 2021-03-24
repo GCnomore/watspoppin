@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/watspoppin/static/css/main.ac12f3c6.chunk.css",
-    "main.js": "/watspoppin/static/js/main.827e80ff.chunk.js",
-    "main.js.map": "/watspoppin/static/js/main.827e80ff.chunk.js.map",
+    "main.css": "/watspoppin/static/css/main.d82c04de.chunk.css",
+    "main.js": "/watspoppin/static/js/main.c6dca5ad.chunk.js",
+    "main.js.map": "/watspoppin/static/js/main.c6dca5ad.chunk.js.map",
     "runtime-main.js": "/watspoppin/static/js/runtime-main.d64b8623.js",
     "runtime-main.js.map": "/watspoppin/static/js/runtime-main.d64b8623.js.map",
-    "static/js/2.cf6d2763.chunk.js": "/watspoppin/static/js/2.cf6d2763.chunk.js",
-    "static/js/2.cf6d2763.chunk.js.map": "/watspoppin/static/js/2.cf6d2763.chunk.js.map",
+    "static/js/2.dbb718af.chunk.js": "/watspoppin/static/js/2.dbb718af.chunk.js",
+    "static/js/2.dbb718af.chunk.js.map": "/watspoppin/static/js/2.dbb718af.chunk.js.map",
     "index.html": "/watspoppin/index.html",
     "service-worker.js": "/watspoppin/service-worker.js",
     "service-worker.js.map": "/watspoppin/service-worker.js.map",
-    "static/css/main.ac12f3c6.chunk.css.map": "/watspoppin/static/css/main.ac12f3c6.chunk.css.map",
-    "static/js/2.cf6d2763.chunk.js.LICENSE.txt": "/watspoppin/static/js/2.cf6d2763.chunk.js.LICENSE.txt"
+    "static/css/main.d82c04de.chunk.css.map": "/watspoppin/static/css/main.d82c04de.chunk.css.map",
+    "static/js/2.dbb718af.chunk.js.LICENSE.txt": "/watspoppin/static/js/2.dbb718af.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d64b8623.js",
-    "static/js/2.cf6d2763.chunk.js",
-    "static/css/main.ac12f3c6.chunk.css",
-    "static/js/main.827e80ff.chunk.js"
+    "static/js/2.dbb718af.chunk.js",
+    "static/css/main.d82c04de.chunk.css",
+    "static/js/main.c6dca5ad.chunk.js"
   ]
 }
